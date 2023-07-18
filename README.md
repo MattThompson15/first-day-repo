@@ -1,2 +1,3 @@
 # first-day-repo
-firs-day-repo repository
+first-day-repo repository
+interesting first day
